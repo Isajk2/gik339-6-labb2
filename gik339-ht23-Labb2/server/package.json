@@ -5,13 +5,16 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "grupp 6",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
     "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.6"
   }
 }

@@ -25,26 +25,18 @@ a:hover{
     margin-top: 3rem;
 }
 
-.page-container{
+main {
     display: flex;
     justify-content: center;
     background-color: dimgray;
     margin-top: 3rem;
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left: 25%;
+    margin-right: 25%;
     padding: 2rem;
 }
 
-table, th, td {
-    border: 1px solid lightgrey;
-    border-collapse: collapse;
+th, td {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: whitesmoke;
     font-weight: 100;
-    padding: 4px;
-}
-
-td {
-    color: lightgray;
-    font-style: italic;
 }
