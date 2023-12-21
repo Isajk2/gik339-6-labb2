@@ -54,6 +54,7 @@ async function displayUserData() {
   } catch (error) {
     console.error("Error:", error);
   }
+  
 }
 displayUserData();
 
